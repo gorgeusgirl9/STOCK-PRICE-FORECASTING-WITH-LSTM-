@@ -2,7 +2,7 @@
 
 https://huggingface.co/spaces/gorgeus/STOCK_PRICE_FORECASTING_WITH_LSTM
 
-
+https://www.kaggle.com/code/gorgeusgirl/stock-price-foreca
 
 
 
